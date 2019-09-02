@@ -9,7 +9,7 @@ from lxml import etree, html
 import requests
 
 
-__version__ = '1.0.0'
+__version__ = '1.0.1'
 
 
 LATEX_PAGE_URL = 'https://journals.plos.org/plosone/s/latex'

@@ -3,7 +3,7 @@ from setuptools import setup
 
 setup(
     name='version4plos',
-    version='1.0.0',
+    version='1.0.1',
     url='https://github.com/petarmaric/version4plos',
     license='BSD',
     author='Petar Maric',
