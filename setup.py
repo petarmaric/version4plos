@@ -4,7 +4,7 @@ from setuptools import setup
 setup(
     name='version4plos',
     version='1.0.0',
-    url='https://bitbucket.org/petar/version4plos',
+    url='https://github.com/petarmaric/version4plos',
     license='BSD',
     author='Petar Maric',
     author_email='petarmaric@uns.ac.rs',

@@ -10,7 +10,7 @@ Please cite this project in your papers::
       title={{version4plos public code repository}},
       author={Mari{\'c}, Petar},
       year={2019},
-      url={https://bitbucket.org/petar/version4plos/},
+      url={https://github.com/petarmaric/version4plos},
     }
 
 .. _`PLOS LaTeX template`: https://journals.plos.org/plosone/s/latex
@@ -52,6 +52,6 @@ If you find any bugs, or wish to propose new features `please let us know`_.
 If you'd like to contribute, simply fork `the repository`_, commit your changes
 and send a pull request. Make sure you add yourself to `AUTHORS`_.
 
-.. _`please let us know`: https://bitbucket.org/petar/version4plos/issues/new
-.. _`the repository`: http://bitbucket.org/petar/version4plos
-.. _`AUTHORS`: https://bitbucket.org/petar/version4plos/src/default/AUTHORS
+.. _`please let us know`: https://github.com/petarmaric/version4plos/issues/new
+.. _`the repository`: https://github.com/petarmaric/version4plos
+.. _`AUTHORS`: https://github.com/petarmaric/version4plos/blob/master/AUTHORS
